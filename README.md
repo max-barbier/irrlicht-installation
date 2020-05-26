@@ -1,5 +1,5 @@
 # irrlicht-installation
-A simple tutorial to install irrlicht
+A simple tutorial to install irrlicht (in particulary for the project Indie studio at Epitech)
 
 If you are on Linux, in particulary on Fedora 28/29/30 or later, just type the command "sudo dnf install irrlicht-devel".
 
